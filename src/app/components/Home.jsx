@@ -10,9 +10,9 @@ export default function Home() {
   return (
     <section className="home" id="home">
       <div className="home-content">
-        <h1>Hi, I'm <span>Yiğit</span></h1>
+        <h1>Hi, Im <span>Yiğit</span></h1>
         <h3 className="text-animation">
-          I'm a <span></span>
+          Im a <span></span>
         </h3>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate voluptas delectus sit, inventore itaque esse animi sequi, magnam tempore aliquam, voluptatum dicta dolorem iure error id veritatis obcaecati eveniet qui.</p>
 
